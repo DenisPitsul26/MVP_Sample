@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="please_wait">Please, wait…</string>
+    <string name="empty_values">Empty values</string>
+</resources>
